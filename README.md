@@ -21,7 +21,7 @@ Bem-vindo ao meu perfil no GitHub! Sou Analista de re com paixão por aplicaçõ
 
 ## 🚀 Sobre Mim
 
-- 🌱 Atualmente, estou me aprofundado em *Server Linux*
+- 🌱 Atualmente, estou me aprofundando em *Server Linux*
 - 👯 Estou buscando colaborar no *Ramo de Cyber Segurança*
 - 💬 Pergunte-me sobre *Boas praticas, serviços no ambiente Linux e Windows*
 - 📫 Como me encontrar: *franciscojunior_sp@hotmail.com*

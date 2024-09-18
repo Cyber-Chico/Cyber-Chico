@@ -17,11 +17,24 @@ Here are some ideas to get you started:
 
 # 👋 Olá, eu sou Francisco
 
-Bem-vindo ao meu perfil no GitHub! Sou Analista de re com paixão por aplicações web e dev de games. Aqui, você encontrará uma coleção dos meus projetos, contribuições e ideias de faculdade e mais.
+Bem-vindo ao meu perfil no GitHub! Sou Analista de Redes de Computadores com paixão por CyberSecurity. Este repositório contém ferramentas e recursos voltados para a cibersegurança, abrangendo diversas áreas como análise de vulnerabilidades, detecção de intrusões, criptografia, e práticas de segurança em redes e sistemas.
+
+## Funcionalidades principais:
+Análise de vulnerabilidades: Scripts e ferramentas para identificar fraquezas em sistemas e redes.
+Detecção de intrusões: Implementações para monitoramento de atividade maliciosa.
+Criptografia: Exemplos de algoritmos de criptografia e práticas seguras de armazenamento de dados.
+Hardening de sistemas: Técnicas para fortalecer a segurança de servidores e endpoints.
+Auditoria e logs: Ferramentas para analisar e gerenciar logs de segurança.
+
+
+## Objetivo:
+Oferecer um conjunto de recursos que ajudem profissionais e entusiastas de segurança a proteger suas redes e sistemas contra ataques e ameaças emergentes.
+
+
 
 ## 🚀 Sobre Mim
 
-- 🌱 Atualmente, estou me aprofundando em *Server Linux*
+- 🌱 Atualmente, estou me aprofundado em *Server Linux*
 - 👯 Estou buscando colaborar no *Ramo de Cyber Segurança*
 - 💬 Pergunte-me sobre *Boas praticas, serviços no ambiente Linux e Windows*
 - 📫 Como me encontrar: *franciscojunior_sp@hotmail.com*

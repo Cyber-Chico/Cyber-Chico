@@ -29,14 +29,14 @@ Bem-vindo ao meu perfil no GitHub! Sou Analista de re com paixão por aplicaçõ
 
 ## 🛠️ Tecnologias & Ferramentas
 
-![Linux]([https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Linux-orange?style=social&logo=Linux
-))
-![HTML]([https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML-Blue?style=social&logo=HTML5
-))
-![MySQL]([https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-blue?style=social&logo=Mysql
-))
-![JavaScript]([https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/php-Blue?style=social&logo=php
-))
+![Linux](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Linux-orange?style=social&logo=Linux
+)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML-Blue?style=social&logo=HTML5
+)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-blue?style=social&logo=Mysql
+)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/php-Blue?style=social&logo=php
+)
 
 ## 🌍 Redes Sociais
 

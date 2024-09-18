@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 Bem-vindo ao meu perfil no GitHub! Sou Analista de Redes de Computadores com paixão por CyberSecurity. Este repositório contém ferramentas e recursos voltados para a cibersegurança, abrangendo diversas áreas como análise de vulnerabilidades, detecção de intrusões, criptografia, e práticas de segurança em redes e sistemas.
 
 ## Funcionalidades principais:
-Análise de vulnerabilidades: Scripts e ferramentas para identificar fraquezas em sistemas e redes.
-Detecção de intrusões: Implementações para monitoramento de atividade maliciosa.
-Criptografia: Exemplos de algoritmos de criptografia e práticas seguras de armazenamento de dados.
-Hardening de sistemas: Técnicas para fortalecer a segurança de servidores e endpoints.
+Análise de vulnerabilidades: Scripts e ferramentas para identificar fraquezas em sistemas e redes.</br>
+Detecção de intrusões: Implementações para monitoramento de atividade maliciosa.</br>
+Criptografia: Exemplos de algoritmos de criptografia e práticas seguras de armazenamento de dados.</br>
+Hardening de sistemas: Técnicas para fortalecer a segurança de servidores e endpoints.</br>
 Auditoria e logs: Ferramentas para analisar e gerenciar logs de segurança.
 
 

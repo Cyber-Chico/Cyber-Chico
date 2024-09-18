@@ -52,7 +52,7 @@ Oferecer um conjunto de recursos que ajudem profissionais e entusiastas de segur
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/francisco-carlos-oliveira/)
 ## 📂 Projetos em Destaque
 
-- **[Engenharia Social](https://github.com/seunomeusuario/nome-do-projeto)**: Breve descrição do projeto.
+- **[Engenharia Social](https://github.com/Cyber-Chico/Engenharia-Solcial.git)**: Este repositório contém um projeto voltado ao estudo e experimentação de técnicas de engenharia social.
 
 ---
 
